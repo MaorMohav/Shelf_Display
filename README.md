@@ -15,17 +15,8 @@ Shelf_Display is a WebGL application created in Unity that demonstrates a 3D pro
 - **Feedback System**: Provides visual feedback for successful or unsuccessful submissions.
 - **Responsive Design**: Designed to work on both desktop and mobile browsers.
 
-## Running the Project
-
-To run this project locally:
-
- **Clone the repository**:
-   ```bash
-   git clone <repository_url>
-## Running the Project
-
 ### Open the Project in Unity
-- It’s recommended to use **Unity version 2020.3** or higher.
+- It’s recommended to use **Unity version 6000.0.10f1**.
 
 ### Build for WebGL
 1. Go to **File > Build Settings**.
