@@ -27,6 +27,7 @@ Shelf_Display is a WebGL application created in Unity that demonstrates a 3D pro
 
 - **Textures**: Product textures are sourced from [Poly Haven](https://polyhaven.com/).
 - **TextMeshPro**: Used for displaying text within the Unity project.
+- **Shelves01 Pack**: 3D shelf assets are sourced from the [Shelves01 Pack](https://assetstore.unity.com/packages/3d/props/shelves01-pack-289927) on the Unity Asset Store.
 
 ## Code Structure and Design
 
