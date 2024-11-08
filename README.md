@@ -18,6 +18,20 @@ Shelf_Display is a WebGL application created in Unity that demonstrates a 3D pro
 ### Open the Project in Unity
 - It’s recommended to use **Unity version 6000.0.10f1**.
 
+## Setup Instructions
+### Clone the Repository
+
+"git clone https://github.com/MaorMohav/Shelf_Display.git"
+"cd Shelf_Display"
+
+### Open the Project in Unity
+
+1.Open Unity Hub, select Open Project and navigate to the Shelf_Display directory.
+2.Choose the project and open it.
+3.Run the Project
+Once the project loads in Unity, open the main scene located in Assets/Scenes/ShelfDisplay.unity.
+Click on the Play button in Unity to run the project.
+
 ### Build for WebGL
 1. Go to **File > Build Settings**.
 2. Select **WebGL** as the target platform.
